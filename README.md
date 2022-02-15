@@ -1,3 +1,3 @@
 # git-practice
 
-git을 연습합니다.
+git을 연습합니다!
